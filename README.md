@@ -1,7 +1,7 @@
 # Logs Analysis Project
 ###### Full Stack Web Developer Nanodegree
-#
-#
+
+
 Internal reporting tool that uses information from a provided example database to discover what kind of articles the site's readers like. Built for the Udacity Full Stack Web Developer Nanodegree.
 
 ### Prerequisites
